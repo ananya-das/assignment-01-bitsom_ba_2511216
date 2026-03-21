@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "E101",
+    "name": "Samsung 55-inch Smart TV",
+    "category": "Electronics",
+    "price": 45000,
+    "brand": "Samsung",
+    "specs": {
+      "resolution": "4K",
+      "voltage": "220V",
+      "smart_features": ["Netflix", "YouTube", "Prime Video"]
+    },
+    "warranty_years": 2,
+    "ratings": [4.5, 4.7, 4.6]
+  },
+  {
+    "_id": "C101",
+    "name": "Men's Casual Shirt",
+    "category": "Clothing",
+    "price": 1500,
+    "brand": "Levis",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "color_options": ["Blue", "Black", "White"],
+    "ratings": [4.2, 4.0, 4.3]
+  },
+  {
+    "_id": "G101",
+    "name": "Amul Milk 1L",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-30",
+    "nutritional_info": {
+      "calories": 150,
+      "fat": "8g",
+      "protein": "6g"
+    },
+    "storage": {
+      "temperature": "Refrigerated",
+      "shelf_life_days": 7
+    }
+  }
+]
